@@ -26,7 +26,7 @@ const KEY_PROJECTS = [
     tech: "React, Routing, css, Responsive Design",
     description:
       "A full-stack e-commerce application with product listings, cart, and authentication.",
-    liveUrl: "https://trendproducts.ccbp.tech/login",
+    liveUrl: "https://ECommerce33L.ccbp.tech",
     githubUrl: "https://github.com/leela-33/React-Ecommerce-APP",
     image: ecommerceImg,
     type: "major",
