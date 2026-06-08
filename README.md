@@ -5,7 +5,7 @@ Built with a sleek dark/light mode UI, smooth animations, and fast loading perfo
 ---
 🚀 Live Demo
 
-🔗 https://your-portfolio-live-link-here.com
+🔗 https://leela-react-portfolio.vercel.app/
 ---
 ⭐ Features
 🔥 Modern UI & UX
